@@ -26,7 +26,7 @@
   
   ## 自救专区
 
- ### &nbsp;&nbsp;&nbsp;&nbsp; [今年两会开幕之时，北京一下黑如晚上8，9点钟，电闪雷鸣❗️ 天灭中共非虚言，赶快自救保平安🍎 快快快 📩](https://github.com/pwgy/td/blob/master/README.md)
+ ### &nbsp;&nbsp;&nbsp;&nbsp; [天灭中共非虚言，赶快自救保平安🍎 快快快 📩](https://github.com/pwgy/td/blob/master/README.md)
 <table>  
   <tr>
     <td colspan="2" align=center><img src="https://cdn.jsdelivr.net/gh/gyoupiodf/im1/%E7%BD%91%E9%97%A8%E6%96%B0%E9%97%BB1.jpg"></td>
