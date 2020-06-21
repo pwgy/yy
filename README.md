@@ -80,3 +80,4 @@
     <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通电脑版</a></td>
   </tr>
   </table>
+<a href="https://git.io/JfNvO "><img src="https://img.icons8.com/wired/2x/gift.png" alt="图片文字说明"></a>
