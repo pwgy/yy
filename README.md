@@ -1,7 +1,8 @@
- #### 收藏本站 https://git.io/JfNvO 
-   ## 自救专区
+ #### <img src="https://img.icons8.com/color/2x/wedding-gift.png">收藏本站 https://git.io/JfNvO 
 
- ### &nbsp;&nbsp;&nbsp;&nbsp; [天灭中共非虚言，赶快自救保平安🍎 快快快 📩](https://github.com/pwgy/td/blob/master/README.md)
+ #### <img src="https://img.icons8.com/color/2x/rose.png">自救专区 [天灭中共非虚言，赶快自救保平安🍎 快快快 📩](https://github.com/pwgy/td/blob/master/README.md)
+
+ 
  
 <table>  
   <tr>
@@ -80,6 +81,4 @@
     <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通电脑版</a></td>
   </tr>
   </table>
-<a href="https://git.io/JfNvO "><img src="https://img.icons8.com/wired/2x/gift.png" alt="图片文字说明"></a>
-<a href="https://git.io/JfNvO "><img src="https://img.icons8.com/wired/2x/gift.png"></a>
-<img src="https://img.icons8.com/wired/2x/gift.png">
+
