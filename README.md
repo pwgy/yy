@@ -1,6 +1,6 @@
- #### <img src="https://img.icons8.com/offices/30/000000/internet.png"/>  收藏本站： https://git.io/JfNvO 
+ #### <img src="https://img.icons8.com/color/48/000000/check-all.png"/> 收藏本站： https://git.io/JfNvO 
 
- #### <img src="https://img.icons8.com/color/48/000000/conflict.png"/>  自救专区： [天灭中共非虚言，赶快自救保平安🍎 快快快 📩](https://github.com/pwgy/td/blob/master/README.md)
+ #### <img src="https://img.icons8.com/color/48/000000/check-all.png"/> 自救专区： [天灭中共非虚言，赶快自救保平安🍎 快快快 📩](https://github.com/pwgy/td/blob/master/README.md)
 
  
  
