@@ -45,6 +45,8 @@
 <tr><td colspan="2" align="left"><a href="https://dwkts8awlbkd7.cloudfront.net/?name=c1188083&key=jdhvxawhshihitwk&from=gy1">北京40小区封禁 百事可乐工厂现感染停工</a></td></tr>
 <tr><td colspan="2" align="left"><a href="https://dwkts8awlbkd7.cloudfront.net/?name=c1188048&key=jdhvxawhshihitwk&from=gy1">首次大型竞选集会 川普再提病毒起源</a></td></tr>
 <tr><td colspan="2" align="left"><a href="https://dwkts8awlbkd7.cloudfront.net/?name=c1188088&key=jdhvxawhshihitwk&from=gy1">美国冷战武器今派用场 B-1B轰炸机</a></td></tr>
+  </table>
+  <table>
   <tr>
     <td colspan="3" align="center"><img src="https://cdn.jsdelivr.net/gh/opipe/up/oGate65.jpg"/></td>
   </tr>
@@ -67,5 +69,7 @@
     <td align="center"></td>
     <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通电脑版</a></td>
   </tr>
-  </table>
-
+  <tr>
+    <td colspan="3" align="center"><img src="https://cdn.jsdelivr.net/gh/opipe/up/oGate640.jpg"/></td>
+  </tr>
+</table>
