@@ -69,7 +69,5 @@
     <td align="center"></td>
     <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通电脑版</a></td>
   </tr>
-  <tr>
-    <td colspan="3" align="center"><img src="https://cdn.jsdelivr.net/gh/opipe/up/oGate640.jpg"/></td>
-  </tr>
+  
 </table>
