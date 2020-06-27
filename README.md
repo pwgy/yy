@@ -69,7 +69,7 @@
 
   </table>
   
-   ### &nbsp;&nbsp;&nbsp;&nbsp[自救专区](https://github.com/pwgy/td/blob/master/README.md)
+   ### &nbsp;&nbsp;&nbsp;&nbsp; [自救专区](https://github.com/pwgy/td/blob/master/README.md)
    
   <table>
   <tr>
