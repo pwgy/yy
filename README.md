@@ -69,8 +69,6 @@
 
   </table>
   
-   ### &nbsp;&nbsp;&nbsp;&nbsp; [自救专区](https://github.com/pwgy/td/blob/master/README.md)
-   
   <table>
   <tr>
     <td colspan="3" align="center"><img src="https://cdn.jsdelivr.net/gh/opipe/up/oGate65.jpg"/></td>
