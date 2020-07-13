@@ -2,8 +2,7 @@
 
  #### <img src="https://img.icons8.com/color/48/000000/check-all.png"/> 自救专区： [天灭中共非虚言，赶快自救保平安🍎 快快快 📩](https://github.com/pwgy/td/blob/master/README.md)
 
- 
- 
+ #### <img src="https://img.icons8.com/color/48/000000/check-all.png"/> 墙外头条： 
 <table>  
 <tr><td colspan="2" align="left"><a href="https://dwkts8awlbkd7.cloudfront.net/?name=c1198260&key=jdhvxawhshihitwk&from=gy1">江西村民回忆溃堤瞬间：狂奔5公里 双脚发抖</a></td></tr>
 <tr><td colspan="2" align="left"><a href="https://dwkts8awlbkd7.cloudfront.net/?name=c1198261&key=jdhvxawhshihitwk&from=gy1">长江在武汉成悬河？四水夹击将迎大洪峰</a></td></tr>
